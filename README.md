@@ -6,10 +6,16 @@
 Day 1=
 2/8/26
 
-1.Reverse a number
-2.palindrome check
-3.
-
+1.Reverse a Number.
+2.palindrome check.
+3.Armstrong Number.
+4.Greater common division(GCD).
+5.Fibonacci.
+6.Prime Number.
+_____________________
 Day 2=3/8/26
-1.Armstrong Number 
-2.Greater common division(GCD)
+[Two pointers]
+
+
+1.Two sum.
+2.vaild palindrome.
