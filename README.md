@@ -16,6 +16,12 @@ _____________________
 Day 2=3/8/26
 [Two pointers]
 
-
 1.Two sum.
 2.vaild palindrome.
+_____________________
+Day 3=4/8/26
+1.Move Zeros
+2.Remove Duplicate form Sorted array
+
+
+
