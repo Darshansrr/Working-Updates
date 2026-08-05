@@ -23,5 +23,7 @@ Day 3=4/8/26
 1.Move Zeros
 2.Remove Duplicate form Sorted array
 
-
-
+_____________________
+Day 4=5/8/26
+1.3sum
+2.Sort colours
