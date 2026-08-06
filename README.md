@@ -31,6 +31,14 @@ Day 4=5/8/26
 1.3sum
 2.Sort colours
 
+_____________________
+Day 5=6/8/26
+1.container most water
+2.Remove Element 
+
+
+
+
 
 
 
