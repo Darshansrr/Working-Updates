@@ -15,7 +15,9 @@ Day 1=
 _____________________
 Day 2=3/8/26
 
-[Two pointers,(Arrays)]
+# 1.Arrays
+
+[Two pointers]
 
 1.Two sum.
 2.vaild palindrome.
