@@ -17,7 +17,7 @@ Day 2=3/8/26
 
 # 1.Arrays
 
-[Two pointers]
+## [Two pointers]
 
 1.Two sum.
 2.vaild palindrome.
@@ -37,6 +37,17 @@ _____________________
 Day 5=6/8/26
 1.container most water
 2.Remove Element 
+_____________________
+Day 6=7/8/26
+
+## [Sliding Window.]
+
+1.Fruits into backets
+
+
+
+
+
 
 
 
