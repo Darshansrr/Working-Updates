@@ -44,6 +44,13 @@ Day 6=7/8/26
 
 1.Fruits into backets
 
+_____________________
+Day 7=8/8/26
+
+1.Max Consecutive One
+2.Max Consecutive Ones||
+
+
 
 
 
