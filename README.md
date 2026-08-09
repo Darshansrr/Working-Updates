@@ -42,7 +42,8 @@ Day 6=7/8/26
 
 ## [Sliding Window.]
 
-1.Fruits into backets
+1.Fruits into backets.
+2.Maximum Sum Subarray of Size K
 
 _____________________
 Day 7=8/8/26
@@ -52,6 +53,18 @@ Day 7=8/8/26
 _____________________
 Day 8=9/8/26
 1.minimum subarray sum
+2.
+
+
+
+
+
+
+
+
+
+
+
 
 
 
