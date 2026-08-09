@@ -49,7 +49,9 @@ Day 7=8/8/26
 
 1.Max Consecutive One
 2.Max Consecutive Ones||
-
+_____________________
+Day 8=9/8/26
+1.minimum subarray sum
 
 
 
