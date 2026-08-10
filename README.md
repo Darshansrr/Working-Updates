@@ -54,7 +54,9 @@ Day 8=9/8/26
 1.Minimum size subarray sum.
 2.Fruits into backets.
 
-
+_____________________
+Day 9=10/8/26
+1.Maximum Average Subarray|.
 
 
 
