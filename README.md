@@ -42,28 +42,17 @@ Day 6=7/8/26
 
 ## [Sliding Window.]
 
-1.Fruits into backets.
-2.Maximum Sum Subarray of Size K
-
+1.Maximum Sum of District Subarray with Length K
+2.Subarray Product less than K
 _____________________
 Day 7=8/8/26
 
-1.Max Consecutive One
-2.Max Consecutive Ones||
+1.Max Consecutive One.
+2.Max Consecutive Ones||.
 _____________________
 Day 8=9/8/26
-1.minimum subarray sum
-2.
-
-
-
-
-
-
-
-
-
-
+1.Minimum size subarray sum.
+2.Fruits into backets.
 
 
 
