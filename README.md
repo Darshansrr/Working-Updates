@@ -65,7 +65,10 @@ Day 10=11/8/26
 
 Revision all  
 
+_____________________
+Day 11=12/8/26
 
+1.find the pivot number
 
 
 
