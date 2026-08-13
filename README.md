@@ -63,13 +63,16 @@ Day 9=10/8/26
 _____________________
 Day 10=11/8/26
 
-Revision all  
+Revision all.
 
 _____________________
 Day 11=12/8/26
 [privix sum]
-1.find the pivot number
+1.find the pivot number.
 
+_____________________
+Day 11=12/8/26
+1.Subarray Sum equals to k.
 
 
 
