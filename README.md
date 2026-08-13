@@ -71,7 +71,7 @@ Day 11=12/8/26
 1.find the pivot number.
 
 _____________________
-Day 11=12/8/26
+Day 12=13/8/26
 1.Subarray Sum equals to k.
 
 
