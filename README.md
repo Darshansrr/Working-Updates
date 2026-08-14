@@ -68,11 +68,21 @@ Revision all.
 _____________________
 Day 11=12/8/26
 [privix sum]
+
 1.find the pivot number.
 
 _____________________
 Day 12=13/8/26
 1.Subarray Sum equals to k.
+
+
+_____________________
+Day 13=14/8/26
+1.Matrix Block Sum (Running Sum of 2D Array)
+
+
+
+
 
 
 
