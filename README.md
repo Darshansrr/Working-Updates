@@ -67,7 +67,8 @@ Revision all.
 
 _____________________
 Day 11=12/8/26
-[privix sum]
+
+## [privix sum]
 
 1.find the pivot number.
 
