@@ -81,6 +81,10 @@ _____________________
 Day 13=14/8/26
 1.Matrix Block Sum (Running Sum of 2D Array)
 
+_____________________
+Day 14=15/8/26
+
+1. Product of Array Except Self.
 
 
 
