@@ -12,6 +12,7 @@ Day 1=
 4.Greater common division(GCD).
 5.Fibonacci.
 6.Prime Number.
+
 _____________________
 Day 2=3/8/26
 
