@@ -92,11 +92,10 @@ Day 15=16/8/26
 
 1.Continuous Subarray Sum.
 
+_____________________
+Day 16=17/8/26
 
-
-
-
-
+1.Subarray Sum Divisible by K
 
 
 
