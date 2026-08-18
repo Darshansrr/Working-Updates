@@ -99,10 +99,10 @@ Day 16=17/8/26
 
 _____________________
 Day 17=18/8/26
+
+## [Kadane’s Algorithm]
+
 1.Maximum Subarray.
-
-
-
 
 
 
