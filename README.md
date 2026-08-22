@@ -3,8 +3,7 @@
 # DSA 
 ## Dsa consistency challenge 
 
-Day 1=
-2/8/26
+Day 1=2/8/26
 
 1.Reverse a Number.
 2.palindrome check.
