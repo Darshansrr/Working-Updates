@@ -121,7 +121,7 @@ Day 20=21/8/26
 _____________________
 Day 21=22/8/26
 
-1.Largest Sum Contiguous Subarray.
+1.Largest Sum Contiguous Subarray.[both same question as 1st day .Maximum Product Subarray.]
 
 _____________________
 Day 22=23/8/26
