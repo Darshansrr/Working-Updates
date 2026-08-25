@@ -130,7 +130,7 @@ Day 22=23/8/26
 1.Reverse a String
 
 _____________________
-Day 22=23/8/26
+Day 23=24/8/26
 
 1.valid palindrome.
 
