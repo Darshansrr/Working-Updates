@@ -134,7 +134,10 @@ Day 23=24/8/26
 
 1.valid palindrome.
 
+_____________________
+Day 24=25/8/26
 
+1.valid palindrome||.
 
 
 
