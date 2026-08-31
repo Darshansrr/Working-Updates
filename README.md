@@ -126,7 +126,10 @@ Day 21=22/8/26
 _____________________
 Day 22=23/8/26
 
-## [Strings.]
+# 2 Strings.
+
+## 1 [Two pointers.]
+
 1.Reverse a String
 
 _____________________
