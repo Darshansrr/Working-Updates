@@ -151,6 +151,7 @@ Day 25,26,27
 
 1.Break 
 
+2. 3 days repeat[hard] dsa.
 _____________________
 Day 28=29/8/26
 
@@ -161,9 +162,10 @@ Day 29=30/8/26
 
 1.Palindromic Substrings.
 
+_____________________
+Day 30=31/8/26
 
-
-
+1.Find All Anagrams in a String.
 
 
 
