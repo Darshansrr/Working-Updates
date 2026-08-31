@@ -168,6 +168,8 @@ Day 29=30/8/26
 _____________________
 Day 30=31/8/26
 
+# 2.[Sliding Window.]
+
 1.Find All Anagrams in a String.
 
 
