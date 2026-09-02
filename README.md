@@ -147,8 +147,6 @@ Day 25=26/8/26
 
 1. Revision 
 
-
-
 _____________________
 Day 25,26,27 
 
@@ -177,9 +175,10 @@ Day 31=1/9/26
 
 1.Longest substring without repeating characters.
 
+_____________________
+Day 32=2/9/26
 
-
-
+1.Permutation in String.
 
 
 
