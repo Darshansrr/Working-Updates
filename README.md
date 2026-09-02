@@ -128,7 +128,7 @@ Day 22=23/8/26
 
 # 2 Strings.
 
-## 1 [Two pointers.]
+## [Two pointers.]
 
 1.Reverse a String
 
@@ -166,7 +166,7 @@ Day 29=30/8/26
 _____________________
 Day 30=31/8/26
 
-# 2.[Sliding Window.]
+## [Sliding Window.]
 
 1.Find All Anagrams in a String.
 
