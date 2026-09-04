@@ -5,13 +5,12 @@
 
 Day 1=2/8/26
 
-1.Reverse a Number.
-2.palindrome check.
-3.Armstrong Number.
-4.Greater common division(GCD).
-5.Fibonacci.
-6.Prime Number.
-
+- Reverse a Number.
+- palindrome check.
+- Armstrong Number.
+- Greater common division(GCD).
+- Fibonacci.
+- Prime Number.
 _____________________
 Day 2=3/8/26
 
@@ -19,109 +18,107 @@ Day 2=3/8/26
 
 ## [Two pointers]
 
-1.Two sum.
-2.vaild palindrome.
+- Two sum.
+- vaild palindrome.
 _____________________
 Day 3=4/8/26
 
-1.Move Zeros
-2.Remove Duplicate form Sorted array
+- Move Zeros
+- Remove Duplicate form Sorted array
 
 _____________________
 Day 4=5/8/26
 
-1.3sum
-2.Sort colours
+- 3sum 
+- Sort colours
 
 _____________________
 Day 5=6/8/26
-1.container most water
-2.Remove Element 
+
+- container most water
+- Remove Element 
 _____________________
 Day 6=7/8/26
 
 ## [Sliding Window.]
 
-1.Maximum Sum of District Subarray with Length K
-2.Subarray Product less than K
+- Maximum Sum of District Subarray with Length K
+- Subarray Product less than K
 _____________________
 Day 7=8/8/26
 
-1.Max Consecutive One.
-2.Max Consecutive Ones||.
+- Max Consecutive One.
+- Max Consecutive Ones||.
 _____________________
 Day 8=9/8/26
 
-1.Minimum size subarray sum.
-2.Fruits into backets.
-
+- Minimum size subarray sum.
 _____________________
 Day 9=10/8/26
 
-1.Maximum Average Subarray|.
-
+- Fruits into backets.
 _____________________
 Day 10=11/8/26
 
-Revision all.
+- Maximum Average Subarray|.
 
 _____________________
 Day 11=12/8/26
 
 ## [privix sum]
 
-1.find the pivot number.
+- find the pivot number.
 
 _____________________
 Day 12=13/8/26
-1.Subarray Sum equals to k.
+
+- Subarray Sum equals to k.
 
 
 _____________________
 Day 13=14/8/26
-1.Matrix Block Sum (Running Sum of 2D Array)
+
+- Matrix Block Sum (Running Sum of 2D Array)
 
 _____________________
 Day 14=15/8/26
 
-1. Product of Array Except Self.
+- Product of Array Except Self.
 
 _____________________
 Day 15=16/8/26
 
-1.Continuous Subarray Sum.
+- Continuous Subarray Sum.
 
 _____________________
 Day 16=17/8/26
 
-1.Subarray Sum Divisible by K.
+- Subarray Sum Divisible by K.
 
 _____________________
 Day 17=18/8/26
 
 ## [Kadane’s Algorithm]
 
-1.Maximum Subarray.
+- Maximum Subarray.
 
 _____________________
 Day 18=19/8/26
 
-1.Maximum Product Subarray.
-
+- Maximum Product Subarray.
 _____________________
 Day 19=20/8/26
 
-1.Maximum Sum Circular Subarray.
-
+- Maximum Sum Circular Subarray.
 _____________________
 Day 20=21/8/26
 
-1.Maximum Absolute Sum of Any Subarray.
+- Maximum Absolute Sum of Any Subarray.
 
 _____________________
 Day 21=22/8/26
 
-1.Largest Sum Contiguous Subarray.[both same question as 1st day .Maximum Product Subarray.]
+- Largest Sum Contiguous Subarray.[both same question as 18th day .Maximum Product Subarray.]
 
 _____________________
 Day 22=23/8/26
@@ -130,65 +127,64 @@ Day 22=23/8/26
 
 ## [Two pointers.]
 
-1.Reverse a String
+- Reverse a String
 
 _____________________
 Day 23=24/8/26
 
-1.valid palindrome.
+- valid palindrome.
 
 _____________________
 Day 24=25/8/26
 
-1.valid palindrome||.
+- valid palindrome||.
 
 _____________________
 Day 25=26/8/26
 
-1. Revision 
+- Revision 
 
 _____________________
 Day 25,26,27 
 
-1.Break 
-
-2. 3 days repeat[hard] dsa.
+- Break 
+- 3 days repeat[hard] dsa.
 _____________________
 Day 28=29/8/26
 
-1.Longest Palindromic Substring.
+- Longest Palindromic Substring.
 
 _____________________
 Day 29=30/8/26
 
-1.Palindromic Substrings.
+- Palindromic Substrings.
 
 _____________________
 Day 30=31/8/26
 
 ## [Sliding Window.]
 
-1.Find All Anagrams in a String.
+- Find All Anagrams in a String.
 
 _____________________
 Day 31=1/9/26
 
-1.Longest substring without repeating characters.
+- Longest substring without repeating characters.
 
 _____________________
 Day 32=2/9/26
 
-1.Permutation in String.
+- Permutation in String.
 
 _____________________
 Day 33=3/9/26
 
-1.Valid Anagram
+- Valid Anagram
 
 _____________________
 Day 34=4/9/26
 
-1. Find Greatest Common Divisor of Array
+- Find Greatest Common Divisor of Array
 
 
 
