@@ -212,7 +212,7 @@ _____________________
 #### Day 39=9/9/26
 
 - Search Insert Position
-
+- sqrt(x) [optimal]
 
 
 
