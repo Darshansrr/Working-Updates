@@ -218,7 +218,7 @@ _____________________
 _____________________
 #### Day 40=9/19/26
 
-- Sorted in Rotated Array
+- Search in Rotated Sorted Array
 
 
 
