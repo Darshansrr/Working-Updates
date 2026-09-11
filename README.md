@@ -214,11 +214,20 @@ _____________________
 - Search Insert Position
 - sqrt(x) [optimal]
 
-
 _____________________
-#### Day 40=9/19/26
+#### Day 40=10/9/26
 
 - Search in Rotated Sorted Array
+
+_____________________
+#### Day 40=11/9/26
+
+- Find Minimum in Rotated Sorted Array
+
+
+
+
+
 
 
 
