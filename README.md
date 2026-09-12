@@ -224,6 +224,18 @@ _____________________
 
 - Find Minimum in Rotated Sorted Array
 
+_____________________
+#### Day 42=12/9/26
+
+- Find Maximum peak Element 
+
+
+
+
+
+
+
+
 
 
 
