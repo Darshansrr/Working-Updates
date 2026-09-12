@@ -227,7 +227,7 @@ _____________________
 _____________________
 #### Day 42=12/9/26
 
-- Find Maximum peak Element 
+- Find Peak Element 
 
 
 
