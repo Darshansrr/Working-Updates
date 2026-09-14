@@ -206,34 +206,33 @@ _____________________
 _____________________
 #### Day 38=8/9/26
 
-- Sqrt(x)
+- Sqrt(x).
 
 _____________________
 #### Day 39=9/9/26
 
-- Search Insert Position
+- Search Insert Position.
 - sqrt(x) [optimal]
 
 _____________________
 #### Day 40=10/9/26
 
-- Search in Rotated Sorted Array
+- Search in Rotated Sorted Array.
 
 _____________________
 #### Day 41=11/9/26
 
-- Find Minimum in Rotated Sorted Array
+- Find Minimum in Rotated Sorted Array.
 
 _____________________
 #### Day 42=12/9/26
 
-- Find Peak Element 
+- Find Peak Element.
 
 _____________________
 #### Day 43=13/9/26
 
-- Fibonacci 
-
+- Fibonacci.
 
 _____________________
 #### Day 44=14/9/26
