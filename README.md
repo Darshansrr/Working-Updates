@@ -239,6 +239,10 @@ _____________________
 
 - Greatest Common Divisor.
 
+_____________________
+#### Day 45=15/9/26
+
+- Reverse a Number.
 
 
 
