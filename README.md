@@ -198,7 +198,9 @@ _____________________
 _____________________
 #### Day 37=7/9/26
 
-# 3.Binary Search.
+# 3.Binary Search 
+
+## [Binary Search.]
 
 - Binary Search.
 
