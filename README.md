@@ -244,9 +244,10 @@ _____________________
 
 - Reverse a Number.
 
+_____________________
+#### Day 46=16/9/26
 
-
-
+- Find First and Last Position of Element in Sorted Array.
 
 
 
