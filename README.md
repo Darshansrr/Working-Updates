@@ -253,7 +253,10 @@ _____________________
 
 - Find First and Last Position of Element in Sorted Array.
 
+_____________________
+#### Day 47=17/9/26
 
+- Rotate Array
 
 
 
