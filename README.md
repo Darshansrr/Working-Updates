@@ -268,3 +268,8 @@ _____________________
 #### Day 49=19/9/26
 
 - Count Occurrences
+
+_____________________
+#### Day 50=20/9/26
+
+- ceiling in a sorted array.
