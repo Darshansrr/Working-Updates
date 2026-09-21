@@ -277,7 +277,7 @@ _____________________
 _____________________
 #### Day 51=21/9/26
 
-- Felling sorted array.
+- Floor and Celling sorted array.
 
 
 
