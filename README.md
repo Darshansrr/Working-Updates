@@ -272,12 +272,12 @@ _____________________
 _____________________
 #### Day 50=20/9/26
 
-- ceiling in a sorted array.
+- Ceil in a sorted array.
 
 _____________________
 #### Day 51=21/9/26
 
-- Floor and Celling sorted array.
+- Floor in sorted array.
 
 _____________________
 #### Day 53=22/9/26
