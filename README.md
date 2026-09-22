@@ -282,8 +282,6 @@ _____________________
 _____________________
 #### Day 53=22/9/26
 
-- Koko Eating Bananas
-
-
+- Koko Eating Banannas.
 
 
