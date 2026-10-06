@@ -345,3 +345,13 @@ _____________________
 - Magnetic Force Between Two Balls.
 
 
+_____________________
+#### Day 66=6/10/26
+
+- Lower Bound
+
+
+
+
+
+
