@@ -364,8 +364,10 @@ _____________________
 
 - Search in Rotated sorted array||.
 
+_____________________
+#### Day 70=10/10/26
 
-
+- target in nums.
 
 
 
