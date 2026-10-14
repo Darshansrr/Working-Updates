@@ -386,5 +386,8 @@ _____________________
 
 - Search on 2D Array ||.
 
+_____________________
+#### Day 74=14/10/26
 
+- The K Weakest Rows in a Matrix.
 
