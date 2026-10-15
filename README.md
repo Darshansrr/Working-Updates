@@ -391,3 +391,8 @@ _____________________
 
 - The K Weakest Rows in a Matrix.
 
+_____________________
+#### Day 75=15/10/26
+
+- Count Negative Number on sorted Array
+
