@@ -396,3 +396,8 @@ _____________________
 
 - Count Negative Number on sorted Array
 
+_____________________
+#### Day 76=16/10/26
+
+- Find Peak Element||.
+
