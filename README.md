@@ -401,3 +401,8 @@ _____________________
 
 - Find Peak Element||.
 
+_____________________
+#### Day 77=17/10/26
+
+- Kth Missing positive Number.
+
