@@ -426,6 +426,15 @@ _____________________
 
 - Revision 
 
+_____________________
+#### Day 82=22/10/26
+
+# 4 Stack.
+
+## [Monotonic Stack.]
+
+- Next Greater Element.
+
 
 
 
