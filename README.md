@@ -435,7 +435,10 @@ _____________________
 
 - Next Greater Element.
 
+_____________________
+#### Day 83=23/10/26
 
+- Next Greater Element ||.
 
 
 
