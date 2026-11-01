@@ -479,5 +479,8 @@ _____________________
 
 - Daily Temperatures.
 
+_____________________
+#### Day 92=32/10/26
 
+- Online Stack plan.
 
